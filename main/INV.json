@@ -1,0 +1,37 @@
+{
+    "data":[
+        {
+            "root":"https://www.premiumpos.online/",
+            "main_folder": "main",
+            "support":"https://www.facebook.com/pepremiumapp",
+            "connection": "www.facebook.com", 
+            "used_by":"   ... > application  >  config  >  define_pre.php",
+            "notes" : "Change when domain/connection_test/customersupport is not available. ",
+            "support_email" : "support@premiumpos.online",
+            "latest_ver" : "Premium POS Installer Pro V1.0 Release.exe",
+            "release_date" : "April 20, 2024, change to premiumpos.online on June 27, 2024",
+            "usesin": ""
+        },
+        {
+            "host":"smtp.hostinger.com",
+            "port": 465,
+            "auth":"true",
+            "auth_type":"ssl",
+            "un":"support@premiumpos.online",
+            "pw":"@eMI|li1!2L",
+            "sender":"support@premiumpos.online",
+            "email_header_img": "https://drive.google.com/file/d/1uplJxfUOu4esn33_rAk6dqgFtJ4G5eA6/view?usp=drive_link",
+            "gmail_support":"premiumpos.ph@gmail.com"
+    
+        },
+        {
+            "server":"",
+            "support":"",
+            "connection": "",
+            "notes" : "ROOT is DOMAIN before is premium-activation, main_folder is the folder uses in webdata",
+            "other":"Updating encryptions INV Sep 16, 2024."
+            
+        }
+       
+    ]
+}
