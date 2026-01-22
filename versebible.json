@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "apkUrl": "http://www.premiumpos.store/versebible/app-debug.apk",
+  "versionCode": 1,
+  "apkUrl": "https://www.premiumpos.store/versebible/app-debug.apk",
   "force": true,
   "head": "Update Required.",
   "message": "New version of this VerseBible is available.",
