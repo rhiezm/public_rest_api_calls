@@ -1,6 +1,6 @@
 {
   "versionCode": 3,
-  "apkUrl": "http://www.premiumpos.store/versebible/app-debug.apk",
+  "apkUrl": "https://www.premiumpos.store/versebible/app-debug.apk",
   "force": true,
   "message": "Update is available."
 }
