@@ -3,7 +3,7 @@
   "apkUrl": "https://www.premiumpos.store/versebible/app-debug.apk",
   "force": true,
   "head": "Update Required.",
-  "message": "New version of this VerseBible is available.",
+  "message": "New version of VerseBible is available.",
   "button": "Download Update."
   
 }
