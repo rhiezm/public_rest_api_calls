@@ -4,6 +4,7 @@
   "force": true,
   "head": "Update Required.",
   "message": "New version of VerseBible is available.",
-  "button": "Download Update"
+  "button": "Download Update",
+  "file_ready": true
   
 }
