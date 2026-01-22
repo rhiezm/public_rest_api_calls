@@ -5,6 +5,6 @@
   "head": "Update Required.",
   "message": "New version of VerseBible is available.",
   "button": "Download Update",
-  "file_ready": false
+  "file_ready": true
   
 }
